@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types';
 import styles from './Card.module.css';
 
 function Card(props) {
@@ -10,9 +9,6 @@ function Card(props) {
     )
 }
 
-Card.propTypes = {
-
-}
 
 export default Card
 
